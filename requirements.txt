@@ -6,3 +6,6 @@ matplotlib
 plotly 
 missingno 
 openpyxl
+scikit-learn
+mlxtend
+lifelines
